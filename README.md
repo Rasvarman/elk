@@ -25,3 +25,6 @@
 Приведите скриншот интерфейса Kibana, на котором видны логи Nginx.
 
 
+
+![Screenshot_87](https://github.com/user-attachments/assets/a395fe02-a7c1-4afe-8dae-9f975eec731e)
+
